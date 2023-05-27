@@ -1,6 +1,6 @@
 ---
 slug: "/evolution"
-title: The Start of the Evolution of YYJ Tech
+title: "The Start of the Evolution of YYJ Tech"
 ---
 
 <h1 class="!mb-0">The Start of the Evolution of YYJ Tech</h2>

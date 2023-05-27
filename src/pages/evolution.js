@@ -38,11 +38,12 @@ export const Head = () => <Seo />
 
 export const query = graphql`
   query EvolutionQuery {
-    allMarkdownRemark(filter: { frontmatter: { slug: { eq: "/evolution" } } }) {
+    allMarkdownRemark() {
       edges {
         node {
           frontmatter {
-            slug
+            slug,
+            title
           }
           html
         }
