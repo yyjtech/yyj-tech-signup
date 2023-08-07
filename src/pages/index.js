@@ -17,7 +17,6 @@ const IndexPage = () => {
     const NUM_OF_IMAGES = 7 // Set to number of images in homepage.yml
     const randomNum = Math.floor(Math.random() * NUM_OF_IMAGES)
     const result = backgrounds[randomNum]
-    console.log(result)
 
     setSelectedBackground(result)
   }, [backgrounds])
@@ -42,20 +41,20 @@ const IndexPage = () => {
             className="object-cover w-full h-full opacity-40 mix-blend-overlay"
             placeholder="blurred"
             layout="fullWidth"
-            alt=""
           />
         </figure>
 
-        <div className="container relative flex flex-col items-center justify-center mb-16 sm:mb-0 sm:h-[calc(100dvh-3.75rem)]">
+        <div className="container relative flex flex-col items-center justify-center mb-16 sm:mb-0 sm:h-[calc(100dvh-3.75rem)]  mt-10">
           <h1 className="text-7xl sm:text-8xl tracking-tighter leading-relaxed mb-2.5">
             <strong className="font-bold font-heading">YYJ</strong>
             <span className=" font-heading !font-thin ml-2 sm:ml-4 ">Tech</span>
           </h1>
-          <p className="px-5 text-xl leading-7 text-center sm:px-0 md:max-w-xl">
+          <p className="px-5 text-2xl leading-7 text-center sm:px-0 md:max-w-[60%]">
             {homepage.intro}
           </p>
 
-          <SignupForm className="mt-10" />
+          <SignupForm className="my-10" />
+
         </div>
       </main>
     </Layout>
