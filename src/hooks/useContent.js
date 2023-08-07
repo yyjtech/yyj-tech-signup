@@ -8,10 +8,14 @@ export const useContent = type => {
           homepage {
             title
             intro
+            history
+            historyLink
 
             signupForm {
               title
               redirectUrl
+              cocDescription
+              cocValues
               terms
               buttonLabel
               media {
