@@ -1,5 +1,5 @@
 import React from "react"
-import { IoLogoSlack, IoNewspaperSharp } from "react-icons/io5"
+import { IoLogoSlack, IoNewspaperSharp, IoSearch } from "react-icons/io5"
 
 import Link from "@/components/Link"
 import useSiteData from "@/hooks/useSiteData"
@@ -9,6 +9,7 @@ const MenuLinks = () => {
   const icons = {
     job: <IoNewspaperSharp />,
     slack: <IoLogoSlack />,
+    search: <IoSearch />,
   }
 
   return (
