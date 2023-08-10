@@ -11,7 +11,7 @@ const Example = ({ data }) => {
 
   return (
     <Layout>
-      <Header hideLogo />
+      <Header />
       <main className="container mb-10">
         <div
           dangerouslySetInnerHTML={{

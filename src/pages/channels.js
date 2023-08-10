@@ -11,7 +11,7 @@ const Channels = ({ data }) => {
 
   return (
     <Layout>
-      <Header hideLogo />
+      <Header />
       <main className="container channels mb-10">
         <div
           dangerouslySetInnerHTML={{
