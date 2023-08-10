@@ -1,5 +1,5 @@
 import React from "react"
-import { IoLogoSlack, IoNewspaperSharp, IoSearch } from "react-icons/io5"
+import { IoLogoSlack, IoNewspaperSharp, IoSearch, IoInformationCircle } from "react-icons/io5"
 
 
 import Link from "@/components/Link"
