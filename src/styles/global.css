@@ -94,6 +94,16 @@
   
 }
 
+ul.coc-warning  {
+    list-style: none;
+    margin-left: -3em;
+  
+  > li:before {
+    content: '✓';
+    margin-right: 12px;
+  }
+}
+
 /* I know this is "not the tailwind" way but for some reason the text-* modifiers aren't working in Markdown. Sorry not sorry! */
 .evolution, .channels {  
   & h1, h2, h3, h4 {

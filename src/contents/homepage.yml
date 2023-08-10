@@ -1,10 +1,20 @@
 homepage:
   title: <strong>YYJ</strong> Tech
   intro: YYJ Tech is an online community that connects & supports professionals in the tech industry in and around Victoria, BC.
+  logo: ../images/yyj-slack.png
+  history: Learn our history
+  historyLink: "/evolution/#history"
 
   signupForm:
     title: Join us today
-    terms: I agree to the <a href="https://github.com/yyjtech/code-of-conduct/blob/master/README.md" target="_blank" title="YYJ Tech Code of Conduct">YYJ Tech Code of Conduct</a>
+    
+    cocDescription: All those who participate in the YYJ Tech community are expected to help us create safe and positive experiences for everyone. 
+    cocValues:
+      - Behave as if you were at a professional event.
+      - Use kindness to build community. 
+      - Be curious to hear about the other person’s perspective. 
+      - We all have to help to foster safer and braver spaces. 
+    terms: I agree to the <a href="https://github.com/yyjtech/code-of-conduct/blob/master/README.md" target="_blank" title="YYJ Tech Code of Conduct">YYJ Tech Code of Conduct</a>, and understand not following it will result in being removed from the group.
     buttonLabel: Sign Up
     media: ../images/yyj-slack.png
     redirectUrl: https://join.slack.com/t/yyjtech/shared_invite/zt-1q0p4kc8j-cUfQTZzan7s~RJ~~erTohg

@@ -41,9 +41,15 @@ module.exports = {
         isNewWindow: true,
       },
       {
+        icon: "info",
+        label: "About",
+        url: "/evolution#history",
+        isNewWindow: true,
+      },
+      {
         icon: "slack",
-        label: "Join Slack",
-        url: "https://join.slack.com/t/yyjtech/shared_invite/zt-9q7q7q0p-~Z1Z4Z8Z1Zq2QZqZqZqZ~g",
+        label: "Slack Login",
+        url: "https://yyjtech.slack.com",
         isNewWindow: true,
       },
     ],
