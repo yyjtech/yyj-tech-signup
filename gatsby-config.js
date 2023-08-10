@@ -30,6 +30,11 @@ module.exports = {
         isHidden: true,
       },
       {
+        icon: "search",
+        label: "Discover Channels",
+        url: "/channels",
+      },
+      {
         icon: "job",
         label: "Post a Job",
         url: "https://forms.gle/6QWUZ8PFh4vX5yfE6",
