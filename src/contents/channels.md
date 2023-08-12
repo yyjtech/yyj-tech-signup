@@ -32,7 +32,7 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 | #introductions | Introduce yourself and what you want out of the community here | Open\* |
 | #learning | Share resources and ask questions in a learning-friendly environment | Open\* |
 | #events | Vancouver Island-related tech events | Open\* |
-| [#meta](https://yyjtech.slack.com/archives/C34M16KA7) |  | [@jen](https://yyjtech.slack.com/archives/D1KFJAREY) |
+| [#meta](https://yyjtech.slack.com/archives/C34M16KA7) | Discussion of making YYJ Tech a better place | [@jen](https://yyjtech.slack.com/archives/D1KFJAREY) |
 | #openhack | A long-running Victoria tech event | Open\* |
 | #remote | A place to connect with others who work remotely | Open\* |
 | #shamelessplug | Brag about something you're up to - but please keep it focused to topics related to Vancouver Island | Open\* |
@@ -75,7 +75,7 @@ _Connect around hobbies and current affairs_
 | #gardening | Chat with others growing green things | Open\* |
 | #news | Tech-related news | Open\* |
 | #photography | Picture taking of all kinds. | Open\* |
-| #politics | The non-civil version of #current-events. | Open\* |
+| #politics | The less-civil version of #current-events. | Open\* |
 | #random | The place to share something that doesn't fit anywhere else. Usually silly things. | Open\* |
 | #watercooler | A stream of general current affairs and general chatter. | Open\* |
 
