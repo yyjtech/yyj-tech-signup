@@ -47,6 +47,7 @@ _Topics related to seeking or providing work opportunities_
 | #co-founder-hunt| Find others looking for a cofounder | Open\* |
 | #contracts_and_jerbs| Post contracts or announce openness to contract work | Open\* |
 | #job-postings| Post available jobs. **Please use the form pinned at the top of the channel** | Open\* |
+| #seeking-opportunities| Post that you're available and looking for new opportunities | Open\* | 
 
 ## Support and Help
 _Get help and support from others in the community on a variety of subtopics_
