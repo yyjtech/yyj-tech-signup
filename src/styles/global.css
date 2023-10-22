@@ -79,6 +79,24 @@
   }
 }
 
+.steward-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.steward-card__contents {
+  display: flex;
+}
+
+.steward-card__image {
+  width: 25%;
+  @apply mr-10;
+
+  & img {
+    border-radius: 100%;
+  }
+}
+
 .table-of-contents {
   @apply my-4 pb-8;
 
@@ -126,6 +144,35 @@ ul.coc-warning  {
 
   & h4 {
     @apply text-xl mt-8;
+  }
+
+  & h2 + h3 {
+    @apply mt-0;
+  }
+
+}
+
+.channel-stewards {  
+  & h1, h2, h3, h4 {
+    @apply font-heading mb-4; 
+  }
+
+  & h1 {
+    @apply text-5xl mt-16 opacity-100 mb-2;
+
+  }
+  
+  & h2 {
+    @apply text-4xl opacity-100;
+
+  }
+
+  & h3 {
+    @apply text-2xl;
+  }
+
+  & h4 {
+    @apply text-xl text-black;
   }
 
   & h2 + h3 {

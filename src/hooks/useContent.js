@@ -36,8 +36,22 @@ export const useContent = type => {
                 }
               }
             }
+
+            channelStewards {
+              name
+              bio
+              username
+              imageURL
+              joinYear
+              channels
+            }
+            
           }
+
+          
         }
+
+        
       }
     `
   )

@@ -47,3 +47,67 @@ homepage:
     - author: Matt Brett
       sourceUrl: https://unsplash.com/photos/m4UTb5H6EwA
       media: ../images/home-backgrounds/matt-brett-m4UTb5H6EwA-unsplash.jpg
+
+  channelStewards:   
+    - name: Jen Reiher
+      bio: I was the cofounder of the original YYJ Tech Slack group, YYJ Tech Ladies. I have been studying, working or volunteering in something related to equity and inclusion for 25+ years.
+      username: jen
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U18PA9AJZ-61de6876ffcc-512
+      joinYear: 2016
+      channels:
+        - announcements
+        - meta
+        
+    - name: Andrina Kelly
+      bio: I have been in a leadership position for 10+ years and participate in both the accessibility and women in tech employee resource groups in my organization.
+      username: Andrina Kelly
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U02URJ84AA3-104be71c58c1-512
+      joinYear: 2021
+      channels:
+        - buy-a-coffee
+
+    - name: Nik Richers
+      bio: I have moderated several Slack communities in the past. I also have been a strong proponent of DEI in previous roles, and have taught an ethics 101 class at VIU.
+      username: Nik Richers
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U05HV5MSMDG-8f0e06266e63-512
+      joinYear: 2023
+      channels:
+        - freelancers
+        - introductions
+        - job-postings
+        - pchardware
+        
+    - name: John Oram
+      bio: I have been an advocate for people without the same sort of power during my leadership roles within the companies I've worked for.
+      username: John
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U1E1HLXU5-b7ff7c367ab2-512
+      joinYear: 2016
+      channels:
+        - dev 
+        - mentorship 
+        - watercooler         
+
+    - name: Jamie Starke
+      bio: Previous organizer of DevOpsDays Victoria, previous organizer of Whisky Oriented Development. I stand up for what's right.
+      username: Jamie Starke
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U1D4LTXH7-630afc9df06e-512
+      joinYear: 2016
+      channels:
+        - ask-yyjtech-hive-mind
+        - career-chat
+        - classifieds
+        - contract-opportunities
+        - salary
+        - seeking-opportunities
+
+    - name: Brett Goss
+      username: brettgoss
+      bio: I have moderated multiple slack communities in the past. I value listening, understanding, and constantly examining my own beliefs, even if it is uncomfortable. 
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U2ESDQX9Q-c75dbf43d1d8-512
+      joinYear: 2018
+      channels:
+        - cycling
+        - coffee
+        - gearheads
+        - gardening
+        - random
