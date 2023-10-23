@@ -1,10 +1,8 @@
-import { graphql } from "gatsby"
 import React from "react"
 
 import Header from "@/components/Header"
 import Layout from "@/components/Layout"
 import Seo from "@/components/Seo"
-import Button from "@/components/Button"
 import ChannelStewardCard from "@/components/ChannelStewardCard"
 import useContent from "@/hooks/useContent"
 
@@ -23,7 +21,7 @@ const ChannelStewards = ({ data }) => {
         <p>Channel Stewards are responsible both for stewarding their channels, and supporting the Steward community to grow and mature. We strive for their role to look like this:</p>
         <ul>
           <li>Participate in <a href="https://www.tidalequality.com/equity-sequence">Equity Sequence</a> training.</li>
-          <li>Monitor their channel(s) and the mod forum for potential issues regularly.</li>
+          <li>Monitor their channel(s) and the stewardship forum for potential issues regularly.</li>
           <li>Support others to work through active issues collectively as they arise.</li>
           <li>Help cover for others if they have to step away for some reason.</li>
           <li>Retro/check in once a month (or other timeframe we agree to) - ideally synchronously.</li>
@@ -55,19 +53,5 @@ const ChannelStewards = ({ data }) => {
  */
 export const Head = () => <Seo />
 
-// export const query = graphql`
-//   query ChannelStewardsQuery {
-//     allMarkdownRemark(filter: { frontmatter: { slug: { eq: "/channel-stewards" } } }) {
-//       edges {
-//         node {
-//           frontmatter {
-//             slug
-//           }
-//           html
-//         }
-//       }
-//     }
-//   }
-// `
 
 export default ChannelStewards

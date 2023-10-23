@@ -40,6 +40,7 @@ export const useContent = type => {
             channelStewards {
               name
               bio
+              dmURL
               username
               imageURL
               joinYear

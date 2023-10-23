@@ -20,7 +20,7 @@ const ChannelStewardCard = ({ children, className, ...props }) => {
 
             <div className="steward-card__details">
 
-                <p><strong>Username:</strong> @{steward.username}</p>
+                <p><strong>Contact:</strong> <a href={steward.dmURL}>@{steward.username}</a></p>
                 <p><strong>Member since:</strong> {steward.joinYear}</p>
 
                 <h4>Channels</h4>
