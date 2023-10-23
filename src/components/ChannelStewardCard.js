@@ -1,10 +1,8 @@
-import cn from "classnames"
 import React from "react"
 
 const ChannelStewardCard = ({ children, className, ...props }) => {
     const steward = props.steward
     const channels = props.steward.channels
-    console.log(channels)
 
   return (
     <>
@@ -27,7 +25,7 @@ const ChannelStewardCard = ({ children, className, ...props }) => {
                 <strong><h4>Channels</h4></strong>
                 <ul className="text-gray-700 font-light">
                     {channels.map((channel,idx) => 
-                        <li>#{channel}</li>
+                        <li key={idx}>#{channel}</li>
                     )}
                 </ul>
 

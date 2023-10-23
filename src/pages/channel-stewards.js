@@ -33,15 +33,16 @@ const ChannelStewards = ({ data }) => {
         
         <h2 className="mt-12">Current Stewards</h2>
 
-        <div className="card-grid grid grid-cols-3 gap-4">
+        <div className="card-grid grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
           {stewards.map((steward, idx) => <ChannelStewardCard steward={stewards[idx]} key={idx}/>)}
-          <a
+          
+        </div>
+        <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSfWJE2PAN8_20YN0xd3kymzBuRsmkWLjwLlnoVasud1-olyUw/viewform?usp=sf_link"
-            className="text-center rounded-xl py-4 bg-secondary px-5 font-heading w-full text-white font-semibold uppercase tracking-widest mt-5 transition-colors duration-200 no-underline drop-shadow-sm hover:drop-shadow-none"
+            className="text-center rounded-xl py-4 bg-secondary px-5 font-heading text-white font-semibold uppercase tracking-widest transition-colors duration-200 no-underline"
           >
             Apply to be a Channel Steward
           </a>
-        </div>
       </main>
     </Layout>
   )
