@@ -6,8 +6,9 @@ import Layout from "@/components/Layout"
 import Seo from "@/components/Seo"
 import { sanitizeHtml } from "@/utils/sanitizeHtml"
 
-const Example = ({ data }) => {
+const Example = ({ data, pageContext }) => {
   const content = data.allMarkdownRemark.edges[0].node.html
+  console.log(data)
 
   return (
     <Layout>
@@ -28,7 +29,7 @@ const Example = ({ data }) => {
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo />
+export const Head = () => <Seo title="Title for SEO"/>
 
 export const query = graphql`
   query ExampleQuery {
