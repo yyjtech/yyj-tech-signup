@@ -6,7 +6,7 @@ slug: "/channels"
 
 Slack is organized into "[channels](https://www.youtube.com/embed/2Lu39IFAmeE)" on the left-hand side bar. You can navigate between channels, join, leave and create as you like in this space - it's up to you. 
 
-* Channels below with a link have active channel stewardship\* to help grow and support the channel
+* Channels below with a link have active [channel stewardship](/channel-stewards) to help grow and support the channel
 * Channels without a link have more varying participation, but you're still welcome to join
 * Into something else more niche? Search in the channels to find others with the same interest, or start something of your own and let others know in [#-channel-discovery](https://yyjtech.slack.com/archives/CK5TF106L)
 
@@ -26,16 +26,16 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| [#annoucements](https://yyjtech.slack.com/archives/C18JM8U2Y) | Mod-only annoucements | [@jen](https://yyjtech.slack.com/archives/D1KFJAREY) |
-| #ask-yyjtech-hive-mind | Have a general question that you'd like to crowd source? Post it here. | Open\* |
-| #classifieds | Buy & sell stuff. Mostly Victoria-based postings. | Open\* |
-| #introductions | Introduce yourself and what you want out of the community here | Open\* |
-| #learning | Share resources and ask questions in a learning-friendly environment | Open\* |
-| #events | Vancouver Island-related tech events | Open\* |
-| [#meta](https://yyjtech.slack.com/archives/C34M16KA7) | Discussion of making YYJ Tech a better place | [@jen](https://yyjtech.slack.com/archives/D1KFJAREY) |
-| #openhack | A long-running Victoria tech event | Open\* |
-| #remote | A place to connect with others who work remotely | Open\* |
-| #shamelessplug | Brag about something you're up to - but please keep it focused to topics related to Vancouver Island | Open\* |
+| [#announcements](https://yyjtech.slack.com/archives/C18JM8U2Y) | Admin & Channel Steward announcements | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#ask-yyjtech-hive-mind](https://yyjtech.slack.com/archives/CK5TG077A) | Have a general question that you'd like to crowd source? Post it here. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#classifieds](https://yyjtech.slack.com/archives/C236MUALE) | Buy & sell stuff. Mostly Victoria-based postings. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#introductions](https://yyjtech.slack.com/archives/C18MW8XS7) | Introduce yourself and what you want out of the community here | [@Nik Richers](/channel-stewards#Nik%20Richers) |
+| #learning | Share resources and ask questions in a learning-friendly environment | Open [\*](#apply) |
+| #events | Vancouver Island-related tech events | Open [\*](#apply) |
+| [#meta](https://yyjtech.slack.com/archives/C34M16KA7) | Discussion of making YYJ Tech a better place | [@jen](/channel-stewards#Jen%20Reiher) |
+| #openhack | A long-running Victoria tech event | Open [\*](#apply) |
+| #remote | A place to connect with others who work remotely | Open [\*](#apply) |
+| #shamelessplug | Brag about something you're up to - but please keep it focused to topics related to Vancouver Island | Open [\*](#apply) |
 
 
 ## Job-Seekers and Posters
@@ -43,59 +43,59 @@ _Topics related to seeking or providing work opportunities_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| #buy-a-coffee| Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | Open\* |
-| #co-founder-hunt| Find others looking for a cofounder | Open\* |
-| #contracts_and_jerbs| Post contracts or announce openness to contract work | Open\* |
-| #job-postings| Post available jobs. **Please use the form pinned at the top of the channel** | Open\* |
-| #seeking-opportunities| Post that you're available and looking for new opportunities | Open\* | 
+| #buy-a-coffee | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | Open [\*](#apply) |
+| #co-founder-hunt | Find others looking for a cofounder | Open [\*](#apply) |
+| [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts or announce openness to contract work | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
+| [#job-postings](https://yyjtech.slack.com/archives/C18KMMR4J) | Post available jobs. **Please use the form pinned at the top of the channel** | [@Nik Richers](/channel-stewards#Nik%20Richers) |
+| [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Post that you're available and looking for new opportunities | [@Jamie Starke](/channel-stewards#Jamie%20Starke) | 
 
 ## Support and Help
 _Get help and support from others in the community on a variety of subtopics_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| #career-chat| General Vancouver Island tech-sector jobs discussions | Open\* |
-| #freelancers | Freelance-related questions | Open\* |
-| #immigration | Immigration-related questions | Open\* |
-| #law-stuff-ama | Law-related questions | Open\* |
-| #lgbt | Connect with LGBTQS+ members and allies | Open\* |
-| #mentorship | Request or offer mentorship | Open\* |
-| #resume | Ask for resume feedback | Open\* |
-| #salary | Open space to discuss challenges and curiosities about salary and salary transparency | Open\* |
+| [#career-chat](https://yyjtech.slack.com/archives/CKSS2VCH3) | General Vancouver Island tech-sector jobs discussions | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
+| [#freelancers](https://yyjtech.slack.com/archives/C1GU8DV7Y) | Freelance-related questions | [@Nik Richers](/channel-stewards#Nik%20Richers) |
+| #immigration | Immigration-related questions | Open [\*](#apply) |
+| #law-stuff-ama | Law-related questions | Open [\*](#apply) |
+| #lgbt | Connect with LGBTQS+ members and allies | Open [\*](#apply) |
+| [#mentorship](https://yyjtech.slack.com/archives/C3599USF3) | Request or offer mentorship | [@John](/channel-stewards#John%20Oram) |
+| #resume | Ask for resume feedback | Open [\*](#apply) |
+| [#salary](https://yyjtech.slack.com/archives/CEZJX09HN) | Open space to discuss challenges and curiosities about salary and salary transparency | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
 
 ## Non-Tech Social Discussions
 _Connect around hobbies and current affairs_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| #coffee | The exlir of life | Open\* |
-| #current-events | Current events in the world. Keep it civil. | Open\* |
-| #cycling | Two-wheeled human-powered transportation discussions | Open\* |
-| #food | Restaurants, recipes, drooling and other food-related banter | Open\* |
-| #games | All gaming-related topics on the table | Open\* |
-| #gardening | Chat with others growing green things | Open\* |
-| #news | Tech-related news | Open\* |
-| #photography | Picture taking of all kinds. | Open\* |
-| #politics | The less-civil version of #current-events. | Open\* |
-| #random | The place to share something that doesn't fit anywhere else. Usually silly things. | Open\* |
-| #watercooler | A stream of general current affairs and general chatter. | Open\* |
+| [#coffee](https://yyjtech.slack.com/archives/C1ABWA6HW) | The exlir of life | [@brettgoss](/channel-stewards#Brett%20Goss) |
+| #current-events | Current events in the world. Keep it civil. | Open [\*](#apply) |
+| [#cycling](https://yyjtech.slack.com/archives/C5W6EKGG6) | Two-wheeled human-powered transportation discussions | [@brettgoss](/channel-stewards#Brett%20Goss) |
+| #food | Restaurants, recipes, drooling and other food-related banter | Open [\*](#apply) |
+| #games | All gaming-related topics on the table | Open [\*](#apply) |
+| [#gardening](https://yyjtech.slack.com/archives/C5F9GF0JG) | Chat with others growing green things |  [@brettgoss](/channel-stewards#Brett%20Goss) |
+| #photography | Picture taking of all kinds. | Open [\*](#apply) |
+| #politics | The less-civil version of #current-events. | Open [\*](#apply) |
+| [#random](https://yyjtech.slack.com/archives/C18JXTXNK) | The place to share something that doesn't fit anywhere else. Usually silly things. | [@brettgoss](/channel-stewards#Brett%20Goss) |
+| #tech-news | Tech-related news | Open [\*](#apply) |
+| [#watercooler](https://yyjtech.slack.com/archives/CA994CED9) | A stream of general current affairs and general chatter. | [@John](/channel-stewards#John%20Oram) |
 
 ## Role-specific 
 _Share knowledge, ask questions and connect with others in your area of expertise - or aspiring expertise_
 
 | Channel | Channel Steward(s) |
 | ------------- |-----|
-| #customer-success | Open\* |
-| #data-science |  Open\* |
-| #design | Open\* |
-| #dev | Open\* |
-| #devops |  Open\* |
-| #front-end | Open\* |
-| #finance |  Open\* |
-| #game-dev | Open\* |
-| #marketing |  Open\* |
-| #sales | Open\* |
-| #product-management | Open\* |
+| #customer-success | Open [\*](#apply) |
+| #data-science |  Open [\*](#apply) |
+| #design | Open [\*](#apply) |
+| [#dev](https://yyjtech.slack.com/archives/C1AHS4DFF) | [@John](/channel-stewards#John%20Oram) |
+| #devops |  Open [\*](#apply) |
+| #front-end | Open [\*](#apply) |
+| #finance |  Open [\*](#apply) |
+| #game-dev | Open [\*](#apply) |
+| #marketing |  Open [\*](#apply) |
+| #sales | Open [\*](#apply) |
+| #product-management | Open [\*](#apply) |
 
 
 ## Technical
@@ -103,17 +103,22 @@ _Chatter and news about niche technical topics_
 
 | Channel | Channel Steward(s) |
 | -------------  -----|
-| #architecture | Open\* |
-| #apple | Open\* |
-| #aws | Open\* |
-| #azure | Open\* |
-| #canadalearningcode | Open\* |
-| #design-systems | Open\* |
-| #gearheads | Open\* |
-| #opensource | Open\* |
-| #pchardware | Open\* |
-| #react | Open\* |
-| #security | Open\* |
+| #architecture | Open [\*](#apply) |
+| #apple | Open [\*](#apply) |
+| #aws | Open [\*](#apply) |
+| #azure | Open [\*](#apply) |
+| #canadalearningcode | Open [\*](#apply) |
+| #design-systems | Open [\*](#apply) |
+| [#gearheads](https://yyjtech.slack.com/archives/C2D95R2LE) |  [@brettgoss](/channel-stewards#Brett%20Goss) |
+| #opensource | Open [\*](#apply) |
+| [#pchardware](https://yyjtech.slack.com/archives/C6VJ6TSF3) | [@Nik Richers](/channel-stewards#Nik%20Richers) |
+| #react | Open [\*](#apply) |
+| #security | Open [\*](#apply) |
 
+<br>
+<br>
+<hr>
+<br>
 
+<a class="mt-20" id="apply"></a>
 \* Interested in becoming a Channel Steward? [Apply here](https://docs.google.com/forms/d/1PLn6X7YRunYF8NrwKuHVO0XhVGCwIifjAlwcUDKscRo/viewform?edit_requested=true#responses).
