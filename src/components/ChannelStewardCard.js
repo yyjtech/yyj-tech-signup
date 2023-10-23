@@ -9,6 +9,7 @@ const ChannelStewardCard = ({ children, className, ...props }) => {
   return (
     <>
      <div className="card steward-card">
+        <span className="text-secondary uppercase text-xs">joined YYJ Tech {steward.joinYear}</span>
         <strong><h3 id={steward.name}>{steward.name}</h3></strong>
         <p className="text-gray-600 text-sm"><em>{steward.bio}</em></p>
 
@@ -20,11 +21,11 @@ const ChannelStewardCard = ({ children, className, ...props }) => {
 
             <div className="steward-card__details">
 
-                <p><strong>Contact:</strong> <a href={steward.dmURL}>@{steward.username}</a></p>
-                <p><strong>Member since:</strong> {steward.joinYear}</p>
+            <strong><h4>Contact</h4></strong>
+                <p><a href={steward.dmURL}>@{steward.username}</a></p>
 
-                <h4>Channels</h4>
-                <ul className="text-gray-800">
+                <strong><h4>Channels</h4></strong>
+                <ul className="text-gray-700 font-light">
                     {channels.map((channel,idx) => 
                         <li>#{channel}</li>
                     )}
