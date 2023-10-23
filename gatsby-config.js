@@ -55,6 +55,7 @@ module.exports = {
     ],
   },
   plugins: [
+    {resolve: `gatsby-plugin-react-helmet`},
     {
       resolve: `gatsby-transformer-remark`,
       options: {

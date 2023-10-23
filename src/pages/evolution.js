@@ -34,7 +34,7 @@ const Evolution = ({ data }) => {
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo />
+export const Head = () => <Seo title="The Evolution of YYJ Tech" />
 
 export const query = graphql`
   query EvolutionQuery {
