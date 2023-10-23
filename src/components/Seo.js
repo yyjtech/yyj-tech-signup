@@ -7,7 +7,7 @@
 import { graphql, useStaticQuery } from "gatsby"
 import * as React from "react"
 
-function Seo({ description, title, children }) {
+function Seo({ title, description, children }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -26,7 +26,7 @@ function Seo({ description, title, children }) {
 
   return (
     <>
-      <title>{title ? title : defaultTitle}</title>
+      <title>{title ? `${title} | ${defaultTitle}` : defaultTitle}</title>
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />

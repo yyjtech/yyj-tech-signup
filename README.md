@@ -74,6 +74,7 @@ Decide on the url, e.g. "community-resources"
   * Repalce the query on line 34 with your file name e.g. `quuery CommunityResourcesQuery`
   * Replace teh slug param on line 35 wit your slug e.g. ` eq: "/community-resources"`
   * Replace `export default Example` line at the end of the file with your url name e.g. `export default CommunityResources`
+  * Update the `title` parameter in the `<Seo>` component at the bottom to include the page title to appear in the header and for SEO/Analytics purposes
 4. Duplicate the `contents/example.md` file
 5. Rename the file to match your url e.g. `community-resources.md`
 6. Replace the slug parameter with your desired url e.g. `slug: "/community-resources"` 
