@@ -89,8 +89,8 @@
 }
 
 .steward-card__image {
-  width: 25%;
-  @apply mr-10;
+  width: 30%;
+  @apply mr-8;
 
   & img {
     border-radius: 100%;
