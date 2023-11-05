@@ -27,7 +27,7 @@ const ChannelStewards = ({ data }) => {
           <li>Help cover for others if they have to step away for some reason.</li>
           <li>Retro/check in once a month (or other timeframe we agree to) - ideally synchronously.</li>
           <li>Identify a “next step” that you will work to implement to help make your channel(s) or the community better, and bring updates on where it’s at monthly.  We will aim to make these tiny #agile.</li>
-          <li>Work actively to fight against feeling guilty for not “doing enough”. The community will take all the energy you are willing give - as in, we are both grateful for whatever you want to give, and also it will eat up ALL of your energy if you let it.</li>
+          <li>Never feel guilty for not “doing enough”. The community will take all the energy you are willing give - as in, we are both grateful for whatever you want to give, and also it will eat up ALL of your energy if you let it.</li>
         </ul>
 
         
