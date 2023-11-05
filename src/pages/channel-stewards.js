@@ -17,7 +17,7 @@ const ChannelStewards = ({ data }) => {
       <main className="container mb-10 channel-stewards">
         <h1 className="text-action ">Channel Stewards</h1>
         <p className="mt-8">Channel Stewards started in 2023 as a result of the feedback from the community as part of the <a href="/evolution">Evolution of YYJ Tech</a>. It is a volunteer role, tapping into individuals who are interested in helping improve the YYJ Tech community.</p>
-        <p>We opted for the title of "Channel Steward" and not "moderator" because the role encompasses both the moderation of content, and the orchestration of processes and practices to improve the channel and the wider YYJ Tech community.</p>
+        <p>Channel stewards see ourselves as the "community for supporting the community", not top-down leadership. We opted for the title of "Channel Steward" and not "moderator" because the role encompasses both the moderation of content, and the orchestration of processes and practices to improve the Slack group and the wider YYJ Tech community.</p>
         <h2 className="mt-12">Channel Stewardship Responsibilities</h2>
         <p>Channel Stewards are responsible both for stewarding their channels, and supporting the Steward community to grow and mature. We strive for their role to look like this:</p>
         <ul>
