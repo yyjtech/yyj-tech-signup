@@ -15,7 +15,7 @@ const MenuLinks = () => {
   }
 
   return (
-    <nav className="flex gap-x-8">
+    <nav className="flex gap-x-4 md:gap-x-8">
       {links.map((link, idx) =>
         link.isHidden ? null : ( // Return null to skip the link
           <Link

@@ -41,7 +41,7 @@ const ChannelStewards = ({ data }) => {
             href="https://docs.google.com/forms/d/e/1FAIpQLSfWJE2PAN8_20YN0xd3kymzBuRsmkWLjwLlnoVasud1-olyUw/viewform?usp=sf_link"
             className="text-center rounded-xl py-4 bg-secondary px-5 font-heading text-white font-semibold uppercase tracking-widest transition-colors duration-200 no-underline"
           >
-            Apply to be a Channel Steward
+            Become a Channel Steward
           </a>
       </main>
     </Layout>

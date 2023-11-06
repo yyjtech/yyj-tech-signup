@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         icon: "search",
-        label: "Discover Channels",
+        label: "Channels",
         url: "/channels",
       },
       {
@@ -42,13 +42,13 @@ module.exports = {
       },
       {
         icon: "info",
-        label: "About",
-        url: "/evolution#history",
+        label: "Support",
+        url: "/channel-stewards",
         isNewWindow: true,
       },
       {
         icon: "slack",
-        label: "Slack Login",
+        label: "Login",
         url: "https://yyjtech.slack.com",
         isNewWindow: true,
       },
