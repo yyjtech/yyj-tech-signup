@@ -18,18 +18,6 @@ module.exports = {
     description: `YYJ Tech is an online community that connects & supports professionals in the tech industry in and around Victoria, BC.`,
     siteMenu: [
       {
-        icon: null,
-        label: "Resources",
-        url: "/resources",
-        isHidden: true,
-      },
-      {
-        icon: null,
-        label: "Events",
-        url: "/events",
-        isHidden: true,
-      },
-      {
         icon: "search",
         label: "Channels",
         url: "/channels",
