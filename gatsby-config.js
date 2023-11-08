@@ -29,7 +29,7 @@ module.exports = {
         isNewWindow: true,
       },
       {
-        icon: "info",
+        icon: "question",
         label: "Support",
         url: "/channel-stewards",
         isNewWindow: true,
