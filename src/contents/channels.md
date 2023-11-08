@@ -26,7 +26,7 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| [#announcements](https://yyjtech.slack.com/archives/C18JM8U2Y) | Admin & Channel Steward announcements | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#announcements](https://yyjtech.slack.com/archives/C18JM8U2Y) | Admin & Channel Steward announcements | [@jen](/channel-stewards#Jen%20Reiher) |
 | [#ask-yyjtech-hive-mind](https://yyjtech.slack.com/archives/CK5TG077A) | Have a general question that you'd like to crowd source? Post it here. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
 | [#classifieds](https://yyjtech.slack.com/archives/C236MUALE) | Buy & sell stuff. Mostly Victoria-based postings. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
 | [#introductions](https://yyjtech.slack.com/archives/C18MW8XS7) | Introduce yourself and what you want out of the community here | [@Nik Richers](/channel-stewards#Nik%20Richers) |
