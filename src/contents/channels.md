@@ -31,7 +31,7 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 | [#classifieds](https://yyjtech.slack.com/archives/C236MUALE) | Buy & sell stuff. Mostly Victoria-based postings. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
 | [#introductions](https://yyjtech.slack.com/archives/C18MW8XS7) | Introduce yourself and what you want out of the community here | [@Nik Richers](/channel-stewards#Nik%20Richers) |
 | #learning | Share resources and ask questions in a learning-friendly environment | Open [\*](#apply) |
-| #events | Vancouver Island-related tech events | Open [\*](#apply) |
+| #events | Vancouver Island-related tech events | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | [#meta](https://yyjtech.slack.com/archives/C34M16KA7) | Discussion of making YYJ Tech a better place | [@jen](/channel-stewards#Jen%20Reiher) |
 | #openhack | A long-running Victoria tech event | Open [\*](#apply) |
 | #remote | A place to connect with others who work remotely | Open [\*](#apply) |
@@ -43,7 +43,7 @@ _Topics related to seeking or providing work opportunities_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| #buy-a-coffee | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | Open [\*](#apply) |
+| #buy-a-coffee | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | #co-founder-hunt | Find others looking for a cofounder | Open [\*](#apply) |
 | [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts or announce openness to contract work | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
 | [#job-postings](https://yyjtech.slack.com/archives/C18KMMR4J) | Post available jobs. **Please use the form pinned at the top of the channel** | [@Nik Richers](/channel-stewards#Nik%20Richers) |
