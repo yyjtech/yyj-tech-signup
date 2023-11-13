@@ -1,5 +1,5 @@
 import React from "react"
-import { IoLogoSlack, IoNewspaperSharp, IoSearch, IoInformationCircle } from "react-icons/io5"
+import { IoLogoSlack, IoNewspaperSharp, IoSearch, IoHelpCircleSharp } from "react-icons/io5"
 
 
 import Link from "@/components/Link"
@@ -9,13 +9,13 @@ const MenuLinks = () => {
   const links = useSiteData("siteMenu")
   const icons = {
     job: <IoNewspaperSharp />,
-    info: <IoInformationCircle />,
+    question: <IoHelpCircleSharp />,
     slack: <IoLogoSlack />,
     search: <IoSearch />,
   }
 
   return (
-    <nav className="flex gap-x-8">
+    <nav className="flex gap-x-4 md:gap-x-8">
       {links.map((link, idx) =>
         link.isHidden ? null : ( // Return null to skip the link
           <Link

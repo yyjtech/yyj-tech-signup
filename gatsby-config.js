@@ -18,20 +18,8 @@ module.exports = {
     description: `YYJ Tech is an online community that connects & supports professionals in the tech industry in and around Victoria, BC.`,
     siteMenu: [
       {
-        icon: null,
-        label: "Resources",
-        url: "/resources",
-        isHidden: true,
-      },
-      {
-        icon: null,
-        label: "Events",
-        url: "/events",
-        isHidden: true,
-      },
-      {
         icon: "search",
-        label: "Discover Channels",
+        label: "Channels",
         url: "/channels",
       },
       {
@@ -41,14 +29,14 @@ module.exports = {
         isNewWindow: true,
       },
       {
-        icon: "info",
-        label: "About",
-        url: "/evolution#history",
+        icon: "question",
+        label: "Support",
+        url: "/channel-stewards",
         isNewWindow: true,
       },
       {
         icon: "slack",
-        label: "Slack Login",
+        label: "Login",
         url: "https://yyjtech.slack.com",
         isNewWindow: true,
       },

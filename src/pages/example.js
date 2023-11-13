@@ -8,7 +8,6 @@ import { sanitizeHtml } from "@/utils/sanitizeHtml"
 
 const Example = ({ data, pageContext }) => {
   const content = data.allMarkdownRemark.edges[0].node.html
-  console.log(data)
 
   return (
     <Layout>

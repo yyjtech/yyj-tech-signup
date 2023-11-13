@@ -14,7 +14,6 @@ export const useSiteData = type => {
               label
               url
               isNewWindow
-              isHidden
             }
           }
         }
