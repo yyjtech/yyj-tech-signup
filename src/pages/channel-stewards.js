@@ -21,7 +21,7 @@ const ChannelStewards = ({ data }) => {
         <h2 className="mt-12">Channel Stewardship Responsibilities</h2>
         <p>Channel Stewards are responsible both for stewarding their channels, and supporting the Steward community to grow and mature. We strive for their role to look like this:</p>
         <ul>
-          <li>Participate in <a href="https://www.tidalequality.com/equity-sequence">Equity Sequence</a> training.</li>
+          <li>Leverage the <a href="https://www.tidalequality.com/equity-sequence">Equity Sequence</a> to support equitable decision making .</li>
           <li>Monitor their channel(s) and the stewardship forum for potential issues regularly.</li>
           <li>Support others to work through active issues collectively as they arise.</li>
           <li>Help cover for others if they have to step away for some reason.</li>
