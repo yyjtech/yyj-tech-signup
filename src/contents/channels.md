@@ -33,6 +33,7 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 | #learning | Share resources and ask questions in a learning-friendly environment | Open [\*](#apply) |
 | [#events](https://yyjtech.slack.com/archives/C18K0EX1S) | Vancouver Island-related tech events | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | [#meta](https://yyjtech.slack.com/archives/C34M16KA7) | Discussion of making YYJ Tech a better place | [@jen](/channel-stewards#Jen%20Reiher) |
+| #moving-to-vicoria | Advice and connections for people new to Victoria, BC | Open [\*](#apply) |
 | #openhack | A long-running Victoria tech event | Open [\*](#apply) |
 | #remote | A place to connect with others who work remotely | Open [\*](#apply) |
 | #shamelessplug | Brag about something you're up to - but please keep it focused to topics related to Vancouver Island | Open [\*](#apply) |
