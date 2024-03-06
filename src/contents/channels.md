@@ -104,7 +104,7 @@ _Share knowledge, ask questions and connect with others in your area of expertis
 _Chatter and news about niche technical topics_
 
 | Channel | Channel Steward(s) |
-| -------------  -----|
+| ------------- | -----|
 | #architecture | Open [\*](#apply) |
 | #apple | Open [\*](#apply) |
 | #aws | Open [\*](#apply) |
