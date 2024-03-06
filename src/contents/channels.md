@@ -47,7 +47,7 @@ _Topics related to seeking or providing work opportunities_
 | [#buy-a-coffee](https://yyjtech.slack.com/archives/CGZ8GFFTQ) | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | #co-founder-hunt | Find others looking for a cofounder | Open [\*](#apply) |
 | [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts or announce openness to contract work | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
-| #interships-and-coops | For students and/or employers considering a coop/internship positions | | Open [\*](#apply) |
+| #interships-and-coops | For students and/or employers considering a coop/internship positions | Open [\*](#apply) |
 | [#job-postings](https://yyjtech.slack.com/archives/C18KMMR4J) | Post available jobs. **Please use the form pinned at the top of the channel** | [@Nik Richers](/channel-stewards#Nik%20Richers) |
 | [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Post that you're available and looking for new opportunities | [@Jamie Starke](/channel-stewards#Jamie%20Starke) | 
 
