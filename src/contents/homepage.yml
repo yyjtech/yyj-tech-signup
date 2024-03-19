@@ -66,6 +66,7 @@ homepage:
       imageURL: https://ca.slack-edge.com/T18HH1BSP-U02URJ84AA3-104be71c58c1-512
       joinYear: 2021
       channels:
+        - ask-yyjtech-hive-mind
         - buy-a-coffee
         - events
 
@@ -76,9 +77,12 @@ homepage:
       imageURL: https://ca.slack-edge.com/T18HH1BSP-U05HV5MSMDG-8f0e06266e63-512
       joinYear: 2023
       channels:
+        - contract-opportunities
         - freelancers
         - introductions
         - job-postings
+        - salary
+        - seeking-opportunities
         - pchardware
         
     - name: John Oram
@@ -88,23 +92,11 @@ homepage:
       imageURL: https://ca.slack-edge.com/T18HH1BSP-U1E1HLXU5-b7ff7c367ab2-512
       joinYear: 2016
       channels:
+        - career-chat
         - dev 
         - mentorship 
-        - watercooler         
-
-    - name: Jamie Starke
-      bio: Previous organizer of DevOpsDays Victoria, previous organizer of Whisky Oriented Development. I stand up for what's right.
-      dmURL: https://yyjtech.slack.com/archives/DJ1NP7F6E
-      username: Jamie Starke
-      imageURL: https://ca.slack-edge.com/T18HH1BSP-U1D4LTXH7-630afc9df06e-512
-      joinYear: 2016
-      channels:
-        - ask-yyjtech-hive-mind
-        - career-chat
-        - classifieds
-        - contract-opportunities
-        - salary
-        - seeking-opportunities
+        - watercooler
+        
 
     - name: Brett Goss
       username: brettgoss
@@ -113,8 +105,9 @@ homepage:
       imageURL: https://ca.slack-edge.com/T18HH1BSP-U2ESDQX9Q-c75dbf43d1d8-512
       joinYear: 2018
       channels:
-        - cycling
+        - classifieds
         - coffee
+        - cycling
         - gearheads
         - gardening
         - random
