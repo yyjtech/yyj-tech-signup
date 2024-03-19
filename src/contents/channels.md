@@ -27,8 +27,8 @@ _Relating to the YYJ Tech and local Vancouver Island community topics_
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
 | [#announcements](https://yyjtech.slack.com/archives/C18JM8U2Y) | Admin & Channel Steward announcements | [@jen](/channel-stewards#Jen%20Reiher) |
-| [#ask-yyjtech-hive-mind](https://yyjtech.slack.com/archives/CK5TG077A) | Have a general question that you'd like to crowd source? Post it here. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
-| [#classifieds](https://yyjtech.slack.com/archives/C236MUALE) | Buy & sell stuff. Mostly Victoria-based postings. | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#ask-yyjtech-hive-mind](https://yyjtech.slack.com/archives/CK5TG077A) | Have a general question that you'd like to crowd source? Post it here. | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
+| [#classifieds](https://yyjtech.slack.com/archives/C236MUALE) | Buy & sell stuff. Mostly Victoria-based postings. | [@brettgoss](/channel-stewards#Brett%20Goss) |
 | [#introductions](https://yyjtech.slack.com/archives/C18MW8XS7) | Introduce yourself and what you want out of the community here | [@Nik Richers](/channel-stewards#Nik%20Richers) |
 | #learning | Share resources and ask questions in a learning-friendly environment | Open [\*](#apply) |
 | [#events](https://yyjtech.slack.com/archives/C18K0EX1S) | Vancouver Island-related tech events | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
@@ -46,24 +46,24 @@ _Topics related to seeking or providing work opportunities_
 | ------------- |-------------| -----|
 | [#buy-a-coffee](https://yyjtech.slack.com/archives/CGZ8GFFTQ) | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | #co-founder-hunt | Find others looking for a cofounder | Open [\*](#apply) |
-| [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts or announce openness to contract work | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
+| [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts or announce openness to contract work | [@Nik Richers](/channel-stewards#Nik%20Richers)  |
 | #interships-and-coops | For students and/or employers considering a coop/internship positions | Open [\*](#apply) |
 | [#job-postings](https://yyjtech.slack.com/archives/C18KMMR4J) | Post available jobs. **Please use the form pinned at the top of the channel** | [@Nik Richers](/channel-stewards#Nik%20Richers) |
-| [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Post that you're available and looking for new opportunities | [@Jamie Starke](/channel-stewards#Jamie%20Starke) | 
+| [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Post that you're available and looking for new opportunities | [@Nik Richers](/channel-stewards#Nik%20Richers)  | 
 
 ## Support and Help
 _Get help and support from others in the community on a variety of subtopics_
 
 | Channel | Description | Channel Steward(s) |
 | ------------- |-------------| -----|
-| [#career-chat](https://yyjtech.slack.com/archives/CKSS2VCH3) | General Vancouver Island tech-sector jobs discussions | [@Jamie Starke](/channel-stewards#Jamie%20Starke)  |
+| [#career-chat](https://yyjtech.slack.com/archives/CKSS2VCH3) | General Vancouver Island tech-sector jobs discussions | [@John](/channel-stewards#John%20Oram) |
 | [#freelancers](https://yyjtech.slack.com/archives/C1GU8DV7Y) | Freelance-related questions | [@Nik Richers](/channel-stewards#Nik%20Richers) |
 | #immigration | Immigration-related questions | Open [\*](#apply) |
 | #law-stuff-ama | Law-related questions | Open [\*](#apply) |
 | #lgbt | Connect with LGBTQS+ members and allies | Open [\*](#apply) |
 | [#mentorship](https://yyjtech.slack.com/archives/C3599USF3) | Request or offer mentorship | [@John](/channel-stewards#John%20Oram) |
 | #resume | Ask for resume feedback | Open [\*](#apply) |
-| [#salary](https://yyjtech.slack.com/archives/CEZJX09HN) | Open space to discuss challenges and curiosities about salary and salary transparency | [@Jamie Starke](/channel-stewards#Jamie%20Starke) |
+| [#salary](https://yyjtech.slack.com/archives/CEZJX09HN) | Open space to discuss challenges and curiosities about salary and salary transparency | [@Nik Richers](/channel-stewards#Nik%20Richers)  |
 
 ## Non-Tech Social Discussions
 _Connect around hobbies and current affairs_
