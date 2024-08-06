@@ -62,6 +62,7 @@ const SignupForm = ({ className }) => {
           <input
             id="share"
             type="checkbox"
+            aria-hidden="true"
             className="mr-2.5 rounded h-5 w-5 relative top-1 sm:static focus:ring-secondary focus:border-secondary text-secondary mb-16"
             onChange={() => {
               setIsHiddenChecked(!isHiddenChecked)
