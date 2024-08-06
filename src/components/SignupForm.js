@@ -10,6 +10,7 @@ const SignupForm = ({ className }) => {
   const [hasFormError, setHasFormError] = useState(false)
   const [hasSharedMore, setHasSharedMore] = useState(false)
   const [isChecked, setIsChecked] = useState(false)
+  const [isHiddenChecked, setIsHiddenChecked] = useState(false)
   const { homepage } = useContent()
   const { signupForm } = homepage
   const image = getImage(signupForm?.media)
@@ -64,7 +65,7 @@ const SignupForm = ({ className }) => {
             type="checkbox"
             className="mr-2.5 rounded h-5 w-5 relative top-1 sm:static focus:ring-secondary focus:border-secondary text-secondary mb-16"
             onChange={() => {
-              hasSharedMore(!hasSharedMore)
+              setIsHiddenChecked(!isHiddenChecked)
               setHasSharedMore(true)
               console.log(hasSharedMore)
             }}
@@ -94,7 +95,7 @@ const SignupForm = ({ className }) => {
                 return setHasFormError(!hasFormError)
               }
               // NOTE: Ensure toc is checked and hidden sneaky field has not been, redirect
-              else if (isChecked && !hasSharedMore) {
+              else if (isChecked && !isHiddenChecked) {
                 return window.location.replace(signupForm.redirectUrl)
               }
               // If the TOCs and sneaky form field have been checked, do nothing. 
