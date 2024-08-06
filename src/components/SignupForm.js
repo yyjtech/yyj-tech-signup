@@ -8,7 +8,6 @@ import { sanitizeHtml } from "@/utils/sanitizeHtml"
 
 const SignupForm = ({ className }) => {
   const [hasFormError, setHasFormError] = useState(false)
-  const [hasSharedMore, setHasSharedMore] = useState(false)
   const [isChecked, setIsChecked] = useState(false)
   const [isHiddenChecked, setIsHiddenChecked] = useState(false)
   const { homepage } = useContent()
@@ -66,8 +65,6 @@ const SignupForm = ({ className }) => {
             className="mr-2.5 rounded h-5 w-5 relative top-1 sm:static focus:ring-secondary focus:border-secondary text-secondary mb-16"
             onChange={() => {
               setIsHiddenChecked(!isHiddenChecked)
-              setHasSharedMore(true)
-              console.log(hasSharedMore)
             }}
           />
 
