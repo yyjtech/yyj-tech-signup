@@ -88,12 +88,20 @@ const SignupForm = ({ className }) => {
               // NOTE: Ensure no form errors
               if (hasFormError) return false
 
-              console.log(hasSharedMore)
+              // If the TOCs and sneaky form field have been checked, do nothing. 
+              if (isChecked && hasSharedMore) {
+                return false 
+              }
+
+              // Set the form error if the TOC is not checked
+              if (!isChecked) {
+                return setHasFormError(!hasFormError)
+              }
               
-              // NOTE: Ensure checked, redirect otherwise display error
-              isChecked
-                ? window.location.replace(signupForm.redirectUrl)
-                : setHasFormError(!hasFormError)
+              // NOTE: Ensure toc is checked and hidden sneaky field has not been, redirect
+              if (isChecked && !hasSharedMore) {
+                return window.location.replace(signupForm.redirectUrl)
+              }
             }}
           >
             {signupForm.buttonLabel}
