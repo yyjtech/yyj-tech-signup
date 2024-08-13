@@ -9,6 +9,7 @@ import { sanitizeHtml } from "@/utils/sanitizeHtml"
 const SignupForm = ({ className }) => {
   const [hasFormError, setHasFormError] = useState(false)
   const [isChecked, setIsChecked] = useState(false)
+  const [isHiddenChecked, setIsHiddenChecked] = useState(false)
   const { homepage } = useContent()
   const { signupForm } = homepage
   const image = getImage(signupForm?.media)
@@ -57,6 +58,26 @@ const SignupForm = ({ className }) => {
             />
           </label>
         </div>
+        <div className="hidden">
+          <input
+            id="share"
+            type="checkbox"
+            aria-hidden="true"
+            className="mr-2.5 rounded h-5 w-5 relative top-1 sm:static focus:ring-secondary focus:border-secondary text-secondary mb-16"
+            onChange={() => {
+              setIsHiddenChecked(!isHiddenChecked)
+            }}
+          />
+
+          <label htmlFor="share">
+            <span
+              data-button-label
+              dangerouslySetInnerHTML={{
+                __html: sanitizeHtml("Do you agree to share your contact information with YYJ Tech."),
+              }}
+            />
+          </label>
+        </div>
         <div className="mx-5 sm:mx-0">
           <Button
             className={cn({ "bg-slate-500": hasFormError })}
@@ -67,10 +88,18 @@ const SignupForm = ({ className }) => {
               // NOTE: Ensure no form errors
               if (hasFormError) return false
 
-              // NOTE: Ensure checked, redirect otherwise display error
-              isChecked
-                ? window.location.replace(signupForm.redirectUrl)
-                : setHasFormError(!hasFormError)
+              // Set the form error if the TOC is not checked
+              if (!isChecked) {
+                return setHasFormError(!hasFormError)
+              }
+              // NOTE: Ensure toc is checked and hidden sneaky field has not been, redirect
+              else if (isChecked && !isHiddenChecked) {
+                return window.location.replace(signupForm.redirectUrl)
+              }
+              // If the TOCs and sneaky form field have been checked, do nothing. 
+              else {
+                return false
+              }
             }}
           >
             {signupForm.buttonLabel}
