@@ -46,10 +46,10 @@ _Topics related to seeking or providing work opportunities_
 | ------------- |-------------| -----|
 | [#buy-a-coffee](https://yyjtech.slack.com/archives/CGZ8GFFTQ) | Ask questions of people who have experience with specific Vancouver Island companies to learn if you'd like to apply there | [@Andrina Kelly](/channel-stewards#Andrina%20Kelly) |
 | #co-founder-hunt | Find others looking for a cofounder | Open [\*](#apply) |
-| [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Post contracts that are open to the community (use #seeking-opportunities to post that you are available for contracts) | [@Nik Richers](/channel-stewards#Nik%20Richers)  |
+| [#contract-opportunities](https://yyjtech.slack.com/archives/C8TC8SC4W) | Share contract opportunities available to the community (use #seeking-opportunities if you’re looking for contracts) | [@Nik Richers](/channel-stewards#Nik%20Richers)  |
 | #internships-and-coops | For students and/or employers considering a coop/internship positions | Open [\*](#apply) |
 | [#job-postings](https://yyjtech.slack.com/archives/C18KMMR4J) | Post available jobs. **Please use the form pinned at the top of the channel** | [@Nik Richers](/channel-stewards#Nik%20Richers) |
-| [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Post that you're available and looking for new opportunities (use #contract-opportunities to post contracts) | [@Nik Richers](/channel-stewards#Nik%20Richers)  | 
+| [#seeking-opportunities](https://yyjtech.slack.com/archives/C05HZ6UDSTA) | Share that you’re available and looking for new opportunities (use #contract-opportunities to post contracts) | [@Nik Richers](/channel-stewards#Nik%20Richers)  | 
 
 ## Support and Help
 _Get help and support from others in the community on a variety of subtopics_
