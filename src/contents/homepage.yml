@@ -111,3 +111,20 @@ homepage:
         - gearheads
         - gardening
         - random
+    
+    
+    - name: Nicholas Taylor
+      username: Nicholas Taylor
+      bio: I've been an almost-daily user of YYJ Tech for four years and have an interest in helping to  maintain the high quality of our Slack group.
+      dmURL: https://yyjtech.slack.com/archives/U017JTWP3LH
+      imageURL: https://ca.slack-edge.com/T18HH1BSP-U017JTWP3LH-f0ac0ba9e0b7-512
+      joinYear: 2021
+      channels:
+        - dev
+        - career-chat 
+        - hiring-discussion
+        - salary
+        - resume
+        - mentorship
+        - random
+        - watercooler
